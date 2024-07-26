@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dde2865e-4df4-438b-a02a-f1f592333d75" name="Changes" comment="added files to repository">
-      <change afterPath="$PROJECT_DIR$/Approximating Eigenvalues/Power_Iteration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bisection Method/sqrt(x)-cosx=0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fix iteration/x^4-3x^2-3=0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear Systems/Gauss - Seidel/Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear Systems/Jacobi/Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Newton's Method/x.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Approximation Theory/Discrete_Least_Squares_Approximation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions of Equations in One Variable/Secant_Method.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fix_iteration.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bisection Method/3(25)=0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection Method/3(25)=0.py" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions of Equations in One Variable/Bisection Method/3(25)=0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection Method/Example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions of Equations in One Variable/Bisection Method/Example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bisection Method/sqrt(x)-cosx=0.py" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions of Equations in One Variable/Bisection Method/sqrt(x)-cosx=0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fix iteration/x^4-3x^2-3=0.py" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions of Equations in One Variable/Fix iteration/x^4-3x^2-3=0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newton's Method/x.py" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions of Equations in One Variable/Newton's Method/x.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "aCoderChild"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/aCoderChild/Numerical_Analysis.git",
+    "accountId": "fc049891-e3bf-4ee7-ae59-f97d9a336bc7"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -57,6 +69,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Solutions of Equations in One Variable" />
       <recent name="$PROJECT_DIR$/Newton's Method" />
       <recent name="$PROJECT_DIR$/Bisection Method" />
     </key>
