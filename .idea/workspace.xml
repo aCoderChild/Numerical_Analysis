@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dde2865e-4df4-438b-a02a-f1f592333d75" name="Changes" comment="added files to repository">
-      <change afterPath="$PROJECT_DIR$/Linear Systems/Gauss_Elimination.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Approximation Theory/Discrete_Least_Squares_Approximation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Approximation Theory/Discrete_Least_Squares_Approximation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Systems/Gauss_Elimination.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linear Systems/Gauss_Elimination.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +35,9 @@
     &quot;accountId&quot;: &quot;fc049891-e3bf-4ee7-ae59-f97d9a336bc7&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -45,24 +47,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.2_c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3(25)=0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Discrete_Least_Squares_Approximation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Example (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Power_Iteration.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bisection_method.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sqrt(x)-cosx=0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.x.executor&quot;: &quot;Run&quot;,
-    &quot;Python.x^4-3x^2-3=0.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.2_c.executor": "Run",
+    "Python.3(25)=0.executor": "Run",
+    "Python.Discrete_Least_Squares_Approximation.executor": "Run",
+    "Python.Example (1).executor": "Run",
+    "Python.Example.executor": "Run",
+    "Python.Gauss_Elimination.executor": "Run",
+    "Python.Power_Iteration.executor": "Run",
+    "Python.bisection_method.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.sqrt(x)-cosx=0.executor": "Run",
+    "Python.x.executor": "Run",
+    "Python.x^4-3x^2-3=0.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Solutions of Equations in One Variable" />
@@ -70,29 +73,7 @@
       <recent name="$PROJECT_DIR$/Bisection Method" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Discrete_Least_Squares_Approximation">
-    <configuration name="3(25)=0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bisection Method" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bisection Method/3(25)=0.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Gauss_Elimination">
     <configuration name="Discrete_Least_Squares_Approximation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -159,6 +140,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Gauss_Elimination" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linear Systems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linear Systems/Gauss_Elimination.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Power_Iteration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -205,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Gauss_Elimination" />
         <item itemvalue="Python.Discrete_Least_Squares_Approximation" />
         <item itemvalue="Python.Power_Iteration" />
         <item itemvalue="Python.Example (1)" />
         <item itemvalue="Python.Example" />
-        <item itemvalue="Python.3(25)=0" />
       </list>
     </recent_temporary>
   </component>
