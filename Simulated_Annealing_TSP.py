@@ -50,7 +50,44 @@ class distances:
     def get_distance_matrix(self):
         return self.distance_matrix()
 
+    def distanclass distances:
+
+    def __init__(self, coordinates):
+        self.grid = coordinates
+        self.distance_grid = np.empty((len(self.grid), len(self.grid)))
+
+    ''' following function is to create 'n' by 'n' array storing distance from one node to other in respective cells'''
+
+    def distance_matrix(self):
+        for i in range(len(self.grid)):
+            for j in range(len(self.grid)):
+                self.distance_grid[i, j] = math.sqrt(
+                    ((self.grid[i][0] - self.grid[j][0]) ** 2 + (self.grid[i][1] - self.grid[j][1]) ** 2))
+        return self.distance_grid
+
+    def get_distance_matrix(self):
+        return self.distance_matrix()
+
     def distance(self, node1, node2):
+        return self.distance_grid[node1, node2]
+
+    ''' calculating total distance in a tour'''
+
+    def tour_cost(self, tour=[]):
+        total_distance = 0
+        for i in range(len(tour) - 1):
+            total_distance += self.distance_grid[tour[i], tour[i + 1]]
+        total_distance += self.distance_grid[tour[len(tour) - 1], tour[0]]
+        return total_distance
+
+    ''' passes list of nodes in a tour and returns respective coordinates of customer nodes'''
+
+    def generate_coordinates(self, tour=[]):
+        tour_coordinates = np.empty([len(tour), 2])
+        for i in range(len(tour)):
+            for j in range(2):
+                tour_coordinates[i, j] = self.grid[tour[i], j]
+        return tour_coordinates.astype('int')ce(self, node1, node2):
         return self.distance_grid[node1, node2]
 
     ''' calculating total distance in a tour'''

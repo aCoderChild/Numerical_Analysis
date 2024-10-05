@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dde2865e-4df4-438b-a02a-f1f592333d75" name="Changes" comment="added files to repository">
-      <change afterPath="$PROJECT_DIR$/MVRP_400N.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simulated_Annealing_TSP.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simulated_Annealing_TSP.py" beforeDir="false" afterPath="$PROJECT_DIR$/Simulated_Annealing_TSP.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
